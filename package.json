@@ -1,0 +1,9 @@
+{
+  "name": "autoshop-real-online-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AutoShop persistent online store starter with customer orders and protected admin status updates",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
